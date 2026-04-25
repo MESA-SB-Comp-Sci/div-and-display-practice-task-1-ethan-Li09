@@ -269,25 +269,84 @@
 .h2-5-Styling {
     background-color: rgb(207, 207, 255);
     color: #0000ff;
-    width: 70%;
+    width: 700%;
     height: 5vh;
     display: inline-block;
     margin-left: 88px;
     position: relative;
-    top: -65px
+    top: -40px;
+    height: 8vh;
 }
 
 .texting5-Styling {
     background-color: rgb(207, 207, 255);
     color: gray;
-    width: 70%;
+    width: 700%;
     height: 5vh;
     display: inline-block;
     margin-left: 88px;
     position: relative;
-    top: -70px
+    top: -52px;
+    height: 5vh;
 }
 
 .display-styling {
     display: inline-block;
+}
+
+.h1-challenge6-styling {
+    background-color: blueviolet;
+    color: white;
+    display: block;
+    width: 100%;
+    height: 8vh;
+    align-content: center;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+
+.skills-styling {
+    color: blueviolet;
+}
+
+.topic-styling {
+    background-color: rgb(199, 172, 225);
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    width: 30%;
+    height: 5vh;
+    margin-bottom: 5px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+
+.background-color-challenge6-styling {
+    background-color: rgb(255, 185, 255);
+    width: 50%;
+    height: 20vh;
+    display: inline-block;
+}
+
+.display-challenge6-styling {
+    display: inline-block;
+    width: 49.62%;
+    height: 20vh;
+    border: 1px gray solid;
+    position: relative;
+    top: -46px;
+    left: -5px;
+    background-color: white;
+}
+
+.footer-styling {
+    display: block;
+    border: 1px gray solid;
+    height: 5vh;
+    border-radius: 2px;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    top: -45px;
 }
