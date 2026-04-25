@@ -307,6 +307,7 @@
 
 .skills-styling {
     color: blueviolet;
+    bottom: -10px;
 }
 
 .topic-styling {
@@ -320,6 +321,9 @@
     text-align: center;
     align-content: center;
     display: inline-block;
+    position: relative;
+    right: -25px;
+    bottom: -15px;
 }
 
 .background-color-challenge6-styling {
@@ -332,7 +336,7 @@
 .display-challenge6-styling {
     display: inline-block;
     width: 49.62%;
-    height: 20vh;
+    height: 20.2vh;
     border: 1px gray solid;
     position: relative;
     top: -46px;
@@ -348,5 +352,6 @@
     text-align: center;
     align-content: center;
     position: relative;
-    top: -45px;
+    top: -47px;
+    background-color: white;
 }
