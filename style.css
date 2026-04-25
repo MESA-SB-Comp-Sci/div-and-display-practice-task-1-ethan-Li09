@@ -12,54 +12,282 @@
 }
 
 .greenbox-challenge1{
-    background-color: lime;
+    background-color: rgb(171, 215, 171);
+    color: green;
     border: green solid 2px;
     border-radius: 5px;
-    width: 100vw;
-    height: 30vh;
+    text-align: center;
+    align-content: center;
+    width: 12vw;
+    height: 10vh;
     display: block;
+    margin-bottom: 0.3%;
 }
 
 .orangebox-challenge1{
-    background-color: rgba(255, 166, 0, 0.652);
+    background-color: rgb(215, 205, 187);
+    color: orange;
     border: orange solid 2px;
     border-radius: 5px;
-    width: 100vw;
-    height: 30vh;
-    display: block;
+    text-align: center;
+    align-content: center;
+    width: 12vw;
+    height: 10vh;
+    margin-bottom: 0.3%;
 }
 
 .bluebox-challenge1{
-    background-color: rgba(0, 0, 255, 0.65);
+    background-color: rgb(186, 186, 231);
+    color: blue;
     border: blue 2px solid;
     border-radius: 5px;
-    width: 100vw;
-    height: 30vh;
+    text-align: center;
+    align-content: center;
+    width: 12vw;
+    height: 10vh;
     display: block;
 }
 
 .HTML-styling {
     background-color: green;
     display: inline-block;
-    border: 
+    border: 2%;
+    border-radius: 5px;
+    height: 6vh;
+    width: 6vw;
+    text-align: center;
+    align-content: center;
+    color: white;
 }
 
 .CSS-styling {
     background-color: blue;
     display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 6vh;
+    width: 6vw;
+    text-align: center;
+    align-content: center;
+    color: white;
 }
 
 .javascript-styling {
     background-color: purple;
     display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 6vh;
+    width: 6vw;
+    text-align: center;
+    align-content: center;
+    color: white;
 }
 
 .Design-styling {
     background-color: pink;
     display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 6vh;
+    width: 6vw;
+    text-align: center;
+    align-content: center;
+    color: white;
 }
 
 .Layout-styling {
     background-color: orange;
+    display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 6vh;
+    width: 6vw;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+
+.Background3-styling {
+    background-color: black;
+    border: 2%;
+    border-radius: 5px;
+    height: 5vh;
+    width: 20vw;
+    align-content: center;
+}
+
+.Home-styling {
+    background-color: green;
+    display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 4vh;
+    width: 4vw;
+    text-align: center;
+    align-content: center;
+    color: white;
+    margin-left: 2%;
+    margin-right: 1%;
+}
+
+.About-styling {
+    display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 4vh;
+    width: 4vw;
+    text-align: center;
+    align-content: center;
+    color: white;
+    margin-right: 1%;
+}
+
+.Projects-styling {
+    display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 4vh;
+    width: 4vw;
+    text-align: center;
+    align-content: center;
+    color: white;
+    margin-right: 1%;
+}
+
+.Contact-styling {
+    display: inline-block;
+    border: 2%;
+    border-radius: 5px;
+    height: 4vh;
+    width: 4vw;
+    text-align: center;
+    align-content: center;
+    color: white;
+    margin-right: 1%;
+}
+
+.Card1-styling {
+    display: inline-block;
+    background-color: rgb(181, 243, 181);
+    border: 2px green solid;
+    border-radius: 5px;
+    color: green;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 5px;
+}
+
+.Card2-styling {
+    display: inline-block;
+    background-color: rgb(179, 179, 255);
+    border: 2px blue solid;
+    border-radius: 5px;
+    color: blue;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 5px;
+}
+
+.Card3-styling {
+    display: inline-block;
+    background-color: rgb(255, 160, 160);
+    border: 2px red solid;
+    border-radius: 5px;
+    color: red;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 5px;
+}
+
+.Card4-styling {
+    display: inline-block;
+    background-color: rgb(255, 226, 171);
+    border: 2px orange solid;
+    border-radius: 5px;
+    color: orange;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+}
+
+.Card5-styling {
+    display: inline-block;
+    background-color:rgb(255, 189, 255);
+    border: 2px purple solid;
+    border-radius: 5px;
+    color: purple;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+}
+
+.Card6-styling {
+    display: inline-block;
+    background-color: rgb(227, 227, 207);
+    border: 2px yellow solid;
+    border-radius: 5px;
+    color: yellow;
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+}
+
+.Sidebar-styling {
+    background-color: black;
+    color: white;
+    border-bottom: 2px gray solid;
+    text-align: center;
+    align-content: center;
+    width: 300%;
+    height: 5vh;
+}
+
+.menu {
+    background-color: black;
+    color: gray;
+    width: 300%;
+    height: 10%;
+    padding-left: 10px;
+}
+
+.h2-5-Styling {
+    background-color: rgb(207, 207, 255);
+    color: #0000ff;
+    width: 70%;
+    height: 5vh;
+    display: inline-block;
+    margin-left: 88px;
+    position: relative;
+    top: -65px
+}
+
+.texting5-Styling {
+    background-color: rgb(207, 207, 255);
+    color: gray;
+    width: 70%;
+    height: 5vh;
+    display: inline-block;
+    margin-left: 88px;
+    position: relative;
+    top: -70px
+}
+
+.display-styling {
     display: inline-block;
 }
